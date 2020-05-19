@@ -20,6 +20,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 | `ES`   | Estadística                               | 18-19 | ES          |
 | `LMD`  | Lógica y Métodos Discretos                | *18-19* | LMD         |
 &nbsp;
+&nbsp;
 ## SEGUNDO
 ###### Primer cuatrimestre
 | Código | Nombre                                    | Curso | Repositorio |
@@ -35,9 +36,10 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 |--------|----------------------------------------|-------|-------------|
 | `FIS`  | Fundamentos de Ingeniería del Software | 19-20 | [FIS](https://github.com/clarasdfgh/FIS)     |
 | `FBD`  | Fundamentos de Bases de Datos          | 19-20 | FBD         |
-| `AC`   | Arquitectura de Computadores           | 19-20 | [AC](https://github.com/clarasdfgh/AC)      |
+| `AC`   | Arquitectura de Computadores           | 19-20 | [AC](https://github.com/clarasdfgh/AC)       |
 | `ALG`  | Algorítmica                            | 19-20 | [ALG](https://github.com/clarasdfgh/ALG)     |
-| `IA`   | Inteligencia Artificial                | 19-20 | [IA](https://github.com/clarasdfgh/IA)      |
+| `IA`   | Inteligencia Artificial                | 19-20 | [IA](https://github.com/clarasdfgh/IA)       |
+&nbsp;
 &nbsp;
 ## TERCERO
 
