@@ -10,6 +10,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 | `CAL`  | Cálculo                                  | *18-19* | CAL         |
 | `ALEM` | Álgebra Lineal y Estructuras Matemáticas | *18-19* | ALEM        |
 | `FFT`  | Fundamentos Físicos y Tecnológicos       | 18-19 | FFT         |
+
 &nbsp;
 ###### Segundo cuatrimestre
 | Código | Nombre                                    | Curso | Repositorio |
@@ -19,6 +20,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 | `IES`  | Ingeniería, Empresa y Sociedad            | 18-19 | [IES](https://github.com/clarasdfgh/IES)|
 | `ES`   | Estadística                               | 18-19 | ES          |
 | `LMD`  | Lógica y Métodos Discretos                | *18-19* | LMD         |
+
 &nbsp;
 &nbsp;
 ## SEGUNDO
@@ -30,6 +32,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 | `EC`   | Estructura de Computadores                | *19-20* | EC          |
 | `SO`   | Sistemas Operativos                       | *19-20* | SO          |
 | `ED`   | Estructuras de Datos                      | 19-20 | ED          |
+
 &nbsp;
 ###### Segundo cuatrimestre
 | Código | Nombre                                 | Curso | Repositorio |
@@ -39,6 +42,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 | `AC`   | Arquitectura de Computadores           | 19-20 | [AC](https://github.com/clarasdfgh/AC)       |
 | `ALG`  | Algorítmica                            | 19-20 | [ALG](https://github.com/clarasdfgh/ALG)     |
 | `IA`   | Inteligencia Artificial                | 19-20 | [IA](https://github.com/clarasdfgh/IA)       |
+
 &nbsp;
 &nbsp;
 ## TERCERO
