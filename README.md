@@ -47,13 +47,13 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 &nbsp;
 ## TERCERO
 ###### Primer cuatrimestre
-| Código | Nombre                                         | Curso | Repositorio |
-|--------|------------------------------------------------|-------|-------------|
-| `ISE`  | Ingeniería de Servidores                       | XX-XX | ISE         |
-| `DDSI` | Diseño y Desarrollo de Sistemas de Información | 20-21 | DDSI        |
-| `MC`   | Modelos de Computación                         | 20-21 | MC          |
-| `FR`   | Fundamentos de Redes                           | XX-XX | FR          |
-| `IG`   | Informática Gráfica                            | 20-21 | IG          |
+| Código | Nombre                                         | Curso | Repositorio                                     |
+|--------|------------------------------------------------|-------|-------------------------------------------------|
+| `ISE`  | Ingeniería de Servidores                       | xx-xx | ISE                                             |
+| `DDSI` | Diseño y Desarrollo de Sistemas de Información | 20-21 | [DDSI](https://github.com/clarasdfgh/DDSI)      |
+| `MC`   | Modelos de Computación                         | 20-21 | [MC](https://github.com/clarasdfgh/MC)          |
+| `FR`   | Fundamentos de Redes                           | xx-xx | FR                                              |
+| `IG`   | Informática Gráfica                            | 20-21 | [IG](https://github.com/clarasdfgh/IG)          |
 
 &nbsp;
 ###### Segundo cuatrimestre
