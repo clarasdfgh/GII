@@ -28,7 +28,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 | Código | Nombre                                    | Curso   | Repositorio                             |
 |--------|-------------------------------------------|---------|-----------------------------------------|
 | `PDOO` | Programación y Diseño Orientado a Objetos | 19-20   | PDOO                                    |
-| `SCD`  | Sistemas Concurrentes y Distribuídos      | *19-20* | [SCD](https://github.com/clarasdfgh/SCD)|
+| `SCD`  | Sistemas Concurrentes y Distribuídos      | 20-21   | [SCD](https://github.com/clarasdfgh/SCD)|
 | `EC`   | Estructura de Computadores                | *19-20* | EC                                      |
 | `SO`   | Sistemas Operativos                       | *19-20* | SO                                      |
 | `ED`   | Estructuras de Datos                      | 19-20   | ED                                      |
