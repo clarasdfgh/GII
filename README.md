@@ -8,7 +8,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 | `FP`   | Fundamentos de Programación              | 19-20   | [FP](https://github.com/clarasdfgh/FP)    |
 | `FS`   | Fundamentos del Software                 | 20-21   | [FS](https://github.com/clarasdfgh/FS)    |
 | `CAL`  | Cálculo                                  | *18-19* | CAL                                       |
-| `ALEM` | Álgebra Lineal y Estructuras Matemáticas | 20-21   | [ALEM](https://github.com/clarasdfgh/ALEM)|
+| `ALEM` | Álgebra Lineal y Estructuras Matemáticas | *20-21* | [ALEM](https://github.com/clarasdfgh/ALEM)|
 | `FFT`  | Fundamentos Físicos y Tecnológicos       | 18-19   | FFT                                       |
 
 &nbsp;
