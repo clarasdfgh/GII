@@ -73,3 +73,12 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 &nbsp;
 > **Disclaimer:** si faltan asignaturas, será por algo. Probablemente no guardé las cosas, están en un repo privado o suspendí la asignatura. No me juzgues.
 En cualquier caso, si *taaanto* te interesa (lo cual no entiendo, porque estoy segura que hay mucho mejor material por ahí) siempre puedes contactarme por correo o lo que sea. Te ayudaré lo mejor que sepa, supongo.
+
+###### Asignaturas que me faltan
+| Primer cuatri | Segundo cuatri |
+| ------------- | -------------- |
+| CAL ALEM      | MP             |
+| SO EC         | AC             |
+| FR ISE IG     |                |
+
+
