@@ -63,7 +63,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 | `SG`   | Sistemas Gráficos                              | 20-21 | [SG](https://github.com/clarasdfgh/SG)           |
 | `DSD`  | Desarrollo de Sistemas Distribuidos            | 20-21 | [DSD](https://github.com/clarasdfgh/DSD)         |
 | `DIU`  | Diseño de Interfaces de Usuario                | 20-21 | [DIU](https://github.com/clarasdfgh/DIU)         |
-| `SIWB` | Sistemas de Información Basados en Web         | 20-21 | [SIWB](https://github.com/clarasdfgh/SIWB)       |
+| `SIBW` | Sistemas de Información Basados en Web         | 20-21 | [SIBW](https://github.com/clarasdfgh/SIBW)       |
 
 &nbsp;
 &nbsp;
