@@ -7,7 +7,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 |--------|------------------------------------------|---------|-------------------------------------------|
 | `FP`   | Fundamentos de Programación              | 19-20   | [FP](https://github.com/clarasdfgh/FP)    |
 | `FS`   | Fundamentos del Software                 | 20-21   | [FS](https://github.com/clarasdfgh/FS)    |
-| `CAL`  | Cálculo                                  | *18-19* | CAL                                       |
+| `CAL`  | Cálculo                                  | xx-xx   | CAL                                       |
 | `ALEM` | Álgebra Lineal y Estructuras Matemáticas | xx-xx   | [ALEM](https://github.com/clarasdfgh/ALEM)|
 | `FFT`  | Fundamentos Físicos y Tecnológicos       | 18-19   | FFT                                       |
 
@@ -15,7 +15,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 ###### Segundo cuatrimestre
 | Código | Nombre                                    | Curso   | Repositorio                             |
 |--------|-------------------------------------------|---------|-----------------------------------------| 
-| `MP`   | Metodología de la Programación            | *18-19* | MP                                      |
+| `MP`   | Metodología de la Programación            | xx-xx   | MP                                      |
 | `TOC`  | Tecnología y Organización de Computadores | 18-19   | TOC                                     |
 | `IES`  | Ingeniería, Empresa y Sociedad            | 18-19   | [IES](https://github.com/clarasdfgh/IES)|
 | `ES`   | Estadística                               | 18-19   | ES                                      |
@@ -29,8 +29,8 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 |--------|-------------------------------------------|---------|-----------------------------------------|
 | `PDOO` | Programación y Diseño Orientado a Objetos | 19-20   | PDOO                                    |
 | `SCD`  | Sistemas Concurrentes y Distribuidos      | 20-21   | [SCD](https://github.com/clarasdfgh/SCD)|
-| `EC`   | Estructura de Computadores                | *19-20* | EC                                      |
-| `SO`   | Sistemas Operativos                       | *19-20* | SO                                      |
+| `EC`   | Estructura de Computadores                | xx-xx   | EC                                      |
+| `SO`   | Sistemas Operativos                       | xx-xx   | SO                                      |
 | `ED`   | Estructuras de Datos                      | 19-20   | ED                                      |
 
 &nbsp;
@@ -39,7 +39,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 |--------|----------------------------------------|---------|----------------------------------------------|
 | `FIS`  | Fundamentos de Ingeniería del Software | 19-20   | [FIS](https://github.com/clarasdfgh/FIS)     |
 | `FBD`  | Fundamentos de Bases de Datos          | 19-20   | FBD                                          |
-| `AC`   | Arquitectura de Computadores           | *19-20* | [AC](https://github.com/clarasdfgh/AC)       |
+| `AC`   | Arquitectura de Computadores           | xx-xx   | [AC](https://github.com/clarasdfgh/AC)       |
 | `ALG`  | Algorítmica                            | 19-20   | [ALG](https://github.com/clarasdfgh/ALG)     |
 | `IA`   | Inteligencia Artificial                | 19-20   | [IA](https://github.com/clarasdfgh/IA)       |
 
@@ -53,7 +53,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 | `DDSI` | Diseño y Desarrollo de Sistemas de Información | 20-21 | [DDSI](https://github.com/clarasdfgh/DDSI)      |
 | `MC`   | Modelos de Computación                         | 20-21 | [MC](https://github.com/clarasdfgh/MC)          |
 | `FR`   | Fundamentos de Redes                           | xx-xx | FR                                              |
-| `IG`   | Informática Gráfica                            | 20-21 | [IG](https://github.com/clarasdfgh/IG)          |
+| `IG`   | Informática Gráfica                            | xx-xx | [IG](https://github.com/clarasdfgh/IG)          |
 
 &nbsp;
 ###### Segundo cuatrimestre
