@@ -7,8 +7,8 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 |--------|------------------------------------------|---------|-------------------------------------------|
 | `FP`   | Fundamentos de Programación              | 19-20   | [FP](https://github.com/clarasdfgh/FP)    |
 | `FS`   | Fundamentos del Software                 | 20-21   | [FS](https://github.com/clarasdfgh/FS)    |
-| `CAL`  | Cálculo                                  | xx-xx   | CAL                                       |
-| `ALEM` | Álgebra Lineal y Estructuras Matemáticas | xx-xx   | [ALEM](https://github.com/clarasdfgh/ALEM)|
+| `CAL`  | Cálculo                                  | 21-22   | [CAL](https://github.com/clarasdfgh/CAL)   |
+| `ALEM` | Álgebra Lineal y Estructuras Matemáticas | 21-22   | [ALEM](https://github.com/clarasdfgh/ALEM)|
 | `FFT`  | Fundamentos Físicos y Tecnológicos       | 18-19   | FFT                                       |
 
 &nbsp;
@@ -29,7 +29,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 |--------|-------------------------------------------|---------|-----------------------------------------|
 | `PDOO` | Programación y Diseño Orientado a Objetos | 19-20   | PDOO                                    |
 | `SCD`  | Sistemas Concurrentes y Distribuidos      | 20-21   | [SCD](https://github.com/clarasdfgh/SCD)|
-| `EC`   | Estructura de Computadores                | xx-xx   | EC                                      |
+| `EC`   | Estructura de Computadores                | 21-22   | [EC](https://github.com/clarasdfgh/EC)  |
 | `SO`   | Sistemas Operativos                       | xx-xx   | SO                                      |
 | `ED`   | Estructuras de Datos                      | 19-20   | ED                                      |
 
@@ -52,7 +52,7 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 | `ISE`  | Ingeniería de Servidores                       | xx-xx | ISE                                             |
 | `DDSI` | Diseño y Desarrollo de Sistemas de Información | 20-21 | [DDSI](https://github.com/clarasdfgh/DDSI)      |
 | `MC`   | Modelos de Computación                         | 20-21 | [MC](https://github.com/clarasdfgh/MC)          |
-| `FR`   | Fundamentos de Redes                           | xx-xx | FR                                              |
+| `FR`   | Fundamentos de Redes                           | 21-22 | [FR](https://github.com/clarasdfgh/FR)          |
 | `IG`   | Informática Gráfica                            | xx-xx | [IG](https://github.com/clarasdfgh/IG)          |
 
 &nbsp;
@@ -77,13 +77,13 @@ En cualquier caso, si *taaanto* te interesa (lo cual no entiendo, porque seguro 
 &nbsp;
 &nbsp;
 
-###### Asignaturas que me gustaron tanto que las voy a hacer otra vez :)
+###### Asignaturas pendientes
 
 
 | Primer cuatri | Segundo cuatri |
 | ------------- | -------------- |
-| CAL ALEM      | MP             |
-| SO EC         | AC             |
-| FR ISE IG     |                |
+|               | MP LMD         |
+| SO            | AC             |
+| ISE IG        |                |
 
 
