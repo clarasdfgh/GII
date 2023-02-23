@@ -69,11 +69,16 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 
 &nbsp;
 &nbsp;
-## TERCERO
+## CUARTO
 ###### Primer cuatrimestre
 | Código | Nombre                                         | Curso | Repositorio                                     |
 |--------|------------------------------------------------|-------|-------------------------------------------------|
-| `MDA`  | Metodologías de Desarrollo Ágil                | 22-23 | [MDA](https://github.com/clarasdfgh/MDA)          |
+| `MDA`  | Metodologías de Desarrollo Ágil                | 22-23 | [MDA](https://github.com/clarasdfgh/MDA)        |
+
+###### Segundo cuatrimestre
+| Código | Nombre                                         | Curso | Repositorio                                     |
+|--------|------------------------------------------------|-------|-------------------------------------------------|
+| `PDM`  | Programación de Dispositivos Móviles           | 22-23 | [PDM](https://github.com/clarasdfgh/PDM)        |
 
 
 &nbsp;
@@ -83,13 +88,3 @@ Todo lo que voy haciendo del Grado en Ingeniería Informática de la UGR. No gar
 
 &nbsp;
 &nbsp;
-
-###### Asignaturas pendientes
-
-
-| Primer cuatri | Segundo cuatri |
-| ------------- | -------------- |
-| SO            |                |
-| ISE IG        |                |
-
-
